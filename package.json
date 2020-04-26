@@ -1,0 +1,24 @@
+{
+  "name": "happy-birthday",
+  "version": "1.0.0",
+  "description": "Say Happy Birthday to someone.",
+  "main": "hack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladislas14/happy-birthday.git"
+  },
+  "author": "Ladislas Dellinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ladislas14/happy-birthday/issues"
+  },
+  "homepage": "https://github.com/ladislas14/happy-birthday#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "minimist": "^1.2.5",
+    "sleep": "^6.1.0"
+  }
+}
