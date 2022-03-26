@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ladislas14/happy-birthday#readme",
   "dependencies": {
     "chalk": "^4.0.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "sleep": "^6.1.0"
   }
 }
